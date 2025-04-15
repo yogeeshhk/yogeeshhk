@@ -33,7 +33,7 @@ Architected the legal-tech backend, including Razorpay integration, JWT-based au
 ### 🩻 OSWB Conference Portal  
 Built backend for national medical conference registration and submission platform. Introduced dynamic form schemas and flexible pricing logic.
 
-### 👥 Autoscal HRMS  
+### 👥 [Autoscal HRMS](https://sparkeighteen.autoscal.com/)  
 Designed modular payroll and attendance microservices. Reduced dev time on new features by 40%.
 
 ---
